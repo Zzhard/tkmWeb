@@ -1,8 +1,7 @@
 import  os
 import logging
-#太空马前段测试地址用户名
 brotype= 2
-url='http://qianduan-test.taikongma.com:8080/visitor/to-login'
+url=''
 username='13193205886'
 password1='123456'
 #数据库配置
